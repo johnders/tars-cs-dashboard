@@ -1,0 +1,8 @@
+{
+  "name": "tars-cs-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private analytics dashboard for the tars-case-studies data layer",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" }
+}
